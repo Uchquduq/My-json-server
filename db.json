@@ -1,1 +1,34 @@
-
+[
+  "users": [
+  {
+    "userName": "Rufat",
+    "city": "Uchquduq",
+    "phone": 935661198
+  },
+  {
+    "userName": "Jamol",
+    "city": "Navoiy",
+    "phone": 935661156
+  },
+  {
+    "userName": "Komil",
+    "city": "Xorazm",
+    "phone": 935661142
+  },
+  {
+    "userName": "Asilbek",
+    "city": "Samarqand",
+    "phone": 935661142
+  },
+  {
+    "userName": "Behruz",
+    "city": "Buxoro",
+    "phone": 935661123
+  },
+  {
+    "userName": "Muhammad",
+    "city": "Toshkent",
+    "phone": 935661165
+  }
+]
+]
