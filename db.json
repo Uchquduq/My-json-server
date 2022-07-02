@@ -1,35 +1,35 @@
 {
 	"users": [{
-		"id":1,
+		"id":0,
 			"userName": "Rufat",
 			"city": "Uchquduq",
 			"phone": 935661198
 		},
-		{"id":2,
+		{"id":1,
 			"userName": "Jamol",
 			"city": "Navoiy",
 			"phone": 935661156
 		},
 		{
-			"id":3,
+			"id":2,
 			"userName": "Komil",
 			"city": "Xorazm",
 			"phone": 935661142
 		},
 		{
-			"id":4,
+			"id":3,
 			"userName": "Asilbek",
 			"city": "Samarqand",
 			"phone": 935661142
 		},
 		{
-			"id":5,
+			"id":4,
 			"userName": "Behruz",
 			"city": "Buxoro",
 			"phone": 935661123
 		},
 		{
-			"id":6,
+			"id":5,
 			"userName": "Muhammad",
 			"city": "Toshkent",
 			"phone": 935661165
